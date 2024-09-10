@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 056d2398ed10f7544b5dc1f4170c864c
+guid: 181389c0e6c9f0f4a9a0830665a30c69
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,7 +33,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Defeated
+      name: Defeated 1
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0

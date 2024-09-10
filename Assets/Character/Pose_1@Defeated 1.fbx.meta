@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 056d2398ed10f7544b5dc1f4170c864c
+guid: 0a844a6cd39718a4a8684f5181351f94
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,7 +33,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Defeated
+      name: Defeated 1
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
@@ -122,7 +122,7 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1

@@ -191,6 +191,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 971ab28060421224da2794ac233059bc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 358478074}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 971ab28060421224da2794ac233059bc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 358478077}
   m_SourcePrefab: {fileID: 100100000, guid: 971ab28060421224da2794ac233059bc, type: 3}
 --- !u!1 &358478068 stripped
 GameObject:
@@ -273,6 +276,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 116
   m_CollisionDetection: 0
+--- !u!114 &358478077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 358478068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64438926db14d954ea40a9453c1bae3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &552359893
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -691,6 +706,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 971ab28060421224da2794ac233059bc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1758373311}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 971ab28060421224da2794ac233059bc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1758373314}
   m_SourcePrefab: {fileID: 100100000, guid: 971ab28060421224da2794ac233059bc, type: 3}
 --- !u!1 &1758373305 stripped
 GameObject:
@@ -771,8 +789,20 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 116
+  m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!114 &1758373314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1758373305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64438926db14d954ea40a9453c1bae3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1868343643
 GameObject:
   m_ObjectHideFlags: 0
@@ -874,7 +904,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
